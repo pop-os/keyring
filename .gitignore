@@ -1,5 +1,6 @@
 /debian/.debhelper/
 /debian/debhelper-build-stamp
 /debian/files
+/debian/pop-keyring.debhelper.log
 /debian/pop-keyring.substvars
 /debian/pop-keyring/
