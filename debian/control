@@ -1,0 +1,13 @@
+Source: pop-keyring
+Section: misc
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.3
+Homepage: https://github.com/pop-os/keyring
+
+Package: pop-keyring
+Architecture: all
+Description: GnuPG keys of the Pop archive
+ The Pop project digitally signs its Release files. This package
+ contains the archive keys used for that.
